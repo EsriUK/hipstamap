@@ -2,10 +2,18 @@
 
 #About
 
-Hipstamap is a web application that lets you add vintage style filters to your maps. You can use preset filters inspired by real cameras, or create your own filters using sliders. 
+Hipstamap is a web application that lets you add vintage style filters to your maps. You can use preset filters inspired by real cameras, or create your own filters using a set of sliders. 
 
 #Sample
-A live sample of the application is available [here] (http://appsstage.esriuk.com/app/HipstaMap/6/wmt/view/4ed78e66d5cb452f91e35dc59a0f10ab/index.html)
+
+A live sample of the application is available [here] (http://bit.ly/1QmKHOL)
+
+#Browser Compatibility
+
+Hipstamap works best on Chrome, Safari or Opera. 
+
+The preset filters work on: Chrome, Firefox, Safari and Opera
+Customisable filters work on: Chrome, Safari and Opera
 
 #Issues
 
