@@ -6,7 +6,7 @@ Hipstamap is a web application that lets you add vintage style filters to your m
 
 # Sample
 
-A live sample of the application is available [here] (http://bit.ly/1QmKHOL)
+A live sample of the application is available [here](http://bit.ly/1QmKHOL)
 
 # Browser Compatibility
 
