@@ -1,25 +1,25 @@
-#**Hipstamap**
+# **Hipstamap**
 
-#About
+# About
 
 Hipstamap is a web application that lets you add vintage style filters to your maps. You can use preset filters inspired by real cameras, or create your own filters using a set of sliders. 
 
-#Sample
+# Sample
 
-A live sample of the application is available [here] (http://bit.ly/1QmKHOL)
+A live sample of the application is available [here](http://bit.ly/1QmKHOL)
 
-#Browser Compatibility
+# Browser Compatibility
 
 Hipstamap works best on Chrome, Safari or Opera. 
 
 The preset filters work on: Chrome, Firefox, Safari and Opera
 Customisable filters work on: Chrome, Safari and Opera
 
-#Issues
+# Issues
 
 Find a bug or want to request a new feature? Please let us know by submitting an issue.
 
-#Licensing
+# Licensing
 
 Copyright 2016 ESRI (UK) Limited
 
